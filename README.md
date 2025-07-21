@@ -14,4 +14,13 @@ Note that not all of the textures are done, everything is WIP still.
 
 ## Installation
 ### Windows
-Download the repository's code, then open Dolphin's user folder by either opening ```%AppData%\Dolphin Emulator``` in the file explorer or opening Dolphin and clicking on File > Open User Folder. Once you have the folder opened, navigate to Load > Textures, and then copy the just SOM folder in the textures folder. After that, open Dolphin, go to the graphics settings > advanced > Load Custom Textures. Make sure you have a higher internal resoltuion and you should be done! (You can delete the README.md file and PNG file if you want to.)
+1. Download the repository's code.
+2. Open Dolphin's user folder by:
+   - opening `%AppData%\Dolphin Emulator` in the file explorer
+   - opening `%USERPROFILE%\Documents\Dolphin`
+   - opening Dolphin and clicking on File > Open User Folder.
+4. From there, navigate to Load > Textures.
+5. Copy just the SOM folder from the repository in the textures folder.  
+6. Open Dolphin, go to graphics settings > advanced > Load Custom Textures. 
+7. Make sure you have a higher internal resoltuion.
+You should be done! (You can delete the README.md file and PNG file if you want to.)
