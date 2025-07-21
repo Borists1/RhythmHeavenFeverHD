@@ -25,7 +25,6 @@ Note that not all of the textures are done, everything is WIP still.
 7. Make sure you have a higher internal resoltuion.
 
 ## Credits
-### Upscalers
 * Borists
 * barbeque.sauce
 * Elnelson991
