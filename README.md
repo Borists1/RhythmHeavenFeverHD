@@ -10,7 +10,7 @@ If you'd like to help contribute to this project, check out our discord server: 
 
 Note that not all of the textures are done, everything is WIP still.
 
-![Progress](https://progress-bar.xyz/35/)
+![Progress](https://progress-bar.xyz/36/)
 
 ## Installation
 ### Windows
