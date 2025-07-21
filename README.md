@@ -26,12 +26,12 @@ Note that not all of the textures are done, everything is WIP still.
 
 ## Credits
 ### Upscalers
-Borists
-barbeque.sauce
-Elnelson991
-ev
-Tailx (also made the logo)
-TUCOY
-Sharkguy
-imnotsureyet
-tudor_0
+* Borists
+* barbeque.sauce
+* Elnelson991
+* ev
+* Tailx (also made the logo)
+* TUCOY
+* Sharkguy
+* imnotsureyet
+* tudor_0
