@@ -23,4 +23,3 @@ Note that not all of the textures are done, everything is WIP still.
 5. Copy just the SOM folder from the repository in the textures folder.  
 6. Open Dolphin, go to graphics settings > advanced > Load Custom Textures. 
 7. Make sure you have a higher internal resoltuion.
-You should be done! (You can delete the README.md file and PNG file if you want to.)
