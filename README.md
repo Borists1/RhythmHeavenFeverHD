@@ -2,7 +2,7 @@
   <img width="468" height="468" src="Rhythm Heaven Fever HD Logo.svg">
 </p>
 
-# RhythmHeavenFeverHD
+# Rhythm Heaven Fever HD
 
 A project which has a goal to manually upscale every RHF sprite as a dolphin emulator texture pack.
 <br>
