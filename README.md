@@ -4,7 +4,7 @@
 
 # Rhythm Heaven Fever HD
 
-A project which has a goal to manually upscale every RHF sprite as a dolphin emulator texture pack.
+A project which has a goal to manually upscale every Rhythm Heaven Fever sprite as a dolphin emulator texture pack.
 <br>
 If you'd like to help contribute to this project, check out our discord server: https://discord.gg/fKjubtkHe2
 <br>
@@ -19,14 +19,14 @@ Note that not all of the textures are done, everything is WIP still.
 <summary>Windows</summary>
 
 1. Download the repository's code.
-2. Open Dolphin's user folder by:
+2. Open Dolphin's user folder by either:
    - opening `%AppData%\Dolphin Emulator` in the file explorer
    - opening `%USERPROFILE%\Documents\Dolphin`
-   - opening Dolphin and clicking on File > Open User Folder.
+   - or opening Dolphin and clicking on File > Open User Folder.
 4. From there, navigate to Load > Textures.
 5. Copy just the SOM folder from the repository in the textures folder.  
 6. Open Dolphin, go to graphics settings > advanced > Load Custom Textures. 
-7. Make sure you have a higher internal resoltuion.
+7. Make sure you have a higher internal resolution, 4x is recommended since it's made for that.
 
 </details>
 
