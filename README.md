@@ -40,3 +40,5 @@ Note that not all of the textures are done, everything is WIP still.
 * Sharkguy
 * imnotsureyet
 * tudor_0
+### Misc. credits
+* Vector Wii Pointers by PrimmR
