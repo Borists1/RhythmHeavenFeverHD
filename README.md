@@ -31,6 +31,7 @@ Note that not all of the textures are done, everything is WIP still.
 </details>
 
 ## Credits
+* Heaven Studio Team
 * Borists
 * barbeque.sauce
 * Elnelson991
