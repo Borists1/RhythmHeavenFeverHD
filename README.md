@@ -4,7 +4,7 @@
 
 # Rhythm Heaven Fever HD
 
-A project which has a goal to manually upscale every Rhythm Heaven Fever sprite as a dolphin emulator texture pack.
+A project which has a goal to manually redraw every Rhythm Heaven Fever texture to 4K.
 <br>
 If you'd like to help contribute to this project, [make a pull request](https://github.com/Borists1/RhythmHeavenFeverHD/pulls) or [check out our discord server](https://discord.gg/fKjubtkHe2)!
 <br>
