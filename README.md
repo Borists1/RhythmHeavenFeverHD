@@ -10,20 +10,19 @@ If you'd like to help contribute to this project, [make a pull request](https://
 <br>
 Note that not all of the textures are done, everything is still WIP.
 
-![Progress](https://progress-bar.xyz/36/)
+![Progress](https://progress-bar.xyz/37.95/)
+
+Supported Versions:
+`SOME01` (Rhythm Heaven Fever)
 
 ## Installation
-
-<details>
 
 1. Download the repository's code.
 2. Open Dolphin's user folder by opening Dolphin and clicking on File > Open User Folder.
 4. From there, navigate to Load > Textures.
 5. Copy just the SOM folder from the downloaded code's zip in the textures folder.  
-6. In Dolphin, go to the Graphics settings > Advanced and enable `Load Custom Textures` and it's recommended to enable `Prefetch Custom Textures` to prevent stuttering during gameplay. 
+6. In Dolphin, go to the Graphics settings > Advanced and enable `Load Custom Textures`. It's also recommended to enable `Prefetch Custom Textures` to prevent stuttering during gameplay. 
 7. Make sure you have a higher Internal Resolution (Graphics > Enhancements). `4x Native` is recommended since this texture pack is made for that.
-
-</details>
 
 ## Credits
 * Heaven Studio Team
@@ -31,7 +30,7 @@ Note that not all of the textures are done, everything is still WIP.
 * barbeque.sauce
 * Elnelson991
 * ev
-* Tailx (also made the logo)
+* Tailx (logo and finding the correct fonts)
 * TUCOY
 * Sharkguy
 * imnotsureyet

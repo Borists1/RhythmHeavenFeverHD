@@ -1,0 +1,27 @@
+----- 13.6.2026 -----
+Added a bunch of the cast characters (not all of them)
+Every single game icon has been upscaled!
+Built to Scale Prologues
+Cheer Readers 2 (no background yet)
+Donk-Donk
+Exhibition Match
+Hole in One 2
+Karate Man's assets have been updated
+Launch party has been removed due to technical reasons, will be added later!
+Love Rap
+Love Rap 2 (No BG)
+Micro-Row in it's entirety
+Night Walk!
+Remixes finally have upscaled prologues (not every is finished)
+Remix 2 Tambourine
+Remix 4 Ringside
+Remix 6 Donk-Donk, Launch Party and Love Rap
+Remix 7 Karate Man, Shrimp Shuffle, Tap Troupe and Cheer Readers
+Remix 9 Hole in One and Love Rap
+Samurai Slice 2
+See-Saw Prologue
+Shrimp Shuffle (partially)
+Main font has been redone
+The Main UI Has been finished
+
+...And a lot of other minor stuff that i can't list. Enjoy the update!
