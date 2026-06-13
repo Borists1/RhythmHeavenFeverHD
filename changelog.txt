@@ -24,4 +24,4 @@ Shrimp Shuffle (partially)
 Main font has been redone
 The Main UI Has been finished
 
-...And a lot of other minor stuff that i can't list. Enjoy the update!
+...And a lot of other minor stuff that i can't list.
