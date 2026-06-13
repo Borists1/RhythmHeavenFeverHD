@@ -29,6 +29,7 @@ Supported Versions:
 * Borists
 * barbeque.sauce
 * Elnelson991
+* Zlobik2.3
 * ev
 * Tailx (logo and finding the correct fonts)
 * TUCOY
