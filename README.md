@@ -10,7 +10,7 @@ If you'd like to help contribute to this project, [make a pull request](https://
 <br>
 Note that not all of the textures are done, everything is still WIP.
 
-![Progress](https://progress-bar.xyz/37.95/)
+![Progress](https://progress-bar.xyz/37/)
 
 Supported Versions:
 `SOME01` (Rhythm Heaven Fever)
