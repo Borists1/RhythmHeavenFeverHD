@@ -12,7 +12,7 @@ Note that not all of the textures are done, everything is still WIP.
 
 ![Progress](https://progress-bar.xyz/38/)
 
-Supported Versions:
+Supported Versions:<br>
 `SOME01` (Rhythm Heaven Fever)
 
 ## Installation
