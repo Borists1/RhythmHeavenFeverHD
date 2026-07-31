@@ -1,3 +1,16 @@
+----- 31.7.2026 -----
+Added Café icons
+All cast characters have been completed
+Air Rally prologue
+Tap Trial prologue
+Hole in One 2 prologue and epilogue
+Packing Pests epilogue
+Remix 5 prologue
+Part of Ringside prologue
+Part of Shrimp Shuffle prologue
+Tap Troupe prologue
+Slightly changed the main UI spritesheet
+
 ----- 13.6.2026 -----
 Added a bunch of the cast characters (not all of them)
 Every single game icon has been upscaled!
