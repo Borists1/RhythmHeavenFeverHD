@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="468" height="468" src="Rhythm Heaven Fever HD Logo.svg">
+  <img width="468" height="468" src="assets/Rhythm Heaven Fever HD Logo.svg">
 </p>
 
 # Rhythm Heaven Fever HD
