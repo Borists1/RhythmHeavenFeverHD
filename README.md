@@ -15,6 +15,25 @@ Note that not all of the textures are done, everything is still WIP.
 Supported Versions:<br>
 `SOME01` (Rhythm Heaven Fever)
 
+<table>
+  <tr>
+    <td>
+      <img src="assets/title.png" alt="Title Screen" width=360px>
+    </td>
+    <td>
+      <img src="assets/holeinone.png" alt="Hole in One" width=360px>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/figurefighter.png" alt="Figure Fighter" width=360px>
+    </td>
+    <td>
+      <img src="assets/karateman.png" alt="Karate Man" width=360px>
+    </td>
+  </tr>
+</table>
+
 ## Installation
 
 1. Download the repository's code.
