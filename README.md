@@ -36,10 +36,10 @@ Supported Versions:<br>
 
 ## Installation
 
-1. Download the repository's code.
+1. Download one of the two packages from the latest [Releases](https://github.com/Borists1/RhythmHeavenFeverHD/releases/latest) page.
 2. Open Dolphin's user folder by opening Dolphin and clicking on File > Open User Folder.
 4. From there, navigate to Load > Textures.
-5. Copy just the SOM folder from the downloaded code's zip in the textures folder.  
+5. Extract the SOM folder from your downloaded package's zip in the Textures folder.  
 6. In Dolphin, go to the Graphics settings > Advanced and enable `Load Custom Textures`. It's also recommended to enable `Prefetch Custom Textures` to prevent stuttering during gameplay. 
 7. Make sure you have a higher Internal Resolution (Graphics > Enhancements). `4x Native` is recommended since this texture pack is made for that.
 
