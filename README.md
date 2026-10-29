@@ -4,7 +4,7 @@
 
 # Rhythm Heaven Fever HD
 
-A project which has a goal to manually redraw every Rhythm Heaven Fever texture to 4K.
+A project which has a goal to manually redraw every Rhythm Heaven Fever texture in high quality.
 <br>
 If you'd like to help contribute to this project, [make a pull request](https://github.com/Borists1/RhythmHeavenFeverHD/pulls) or [check out our discord server](https://discord.gg/fKjubtkHe2)!
 <br>
@@ -42,6 +42,10 @@ Supported Versions:<br>
 5. Extract the SOM folder from your downloaded package's zip in the Textures folder.  
 6. In Dolphin, go to the Graphics settings > Advanced and enable `Load Custom Textures`. It's also recommended to enable `Prefetch Custom Textures` to prevent stuttering during gameplay. 
 7. Make sure you have a higher Internal Resolution (Graphics > Enhancements). `4x Native` is recommended since this texture pack is made for that.
+
+## Note
+
+All of the textures in the Releases have been modified to fix transparency issues within Dolphin. If you want the unmodified textures, get them from the Repository's code instead.
 
 ## Credits
 * Heaven Studio Team
