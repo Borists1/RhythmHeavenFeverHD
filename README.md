@@ -60,4 +60,4 @@ All of the textures in the Releases have been modified to fix transparency issue
 * imnotsureyet
 * tudor_0
 ### Misc. credits
-* Vector Wii Pointers by PrimmR
+* Wii pause menu and cursor assets from [Alan-bur](https://github.com/Alan-bur)'s [4K Wii Menu Texture Pack](https://github.com/Alan-bur/WM4K)
