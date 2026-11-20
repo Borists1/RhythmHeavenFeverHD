@@ -61,3 +61,6 @@ All of the textures in the Releases have been modified to fix transparency issue
 * tudor_0
 ### Misc. credits
 * Wii pause menu and cursor assets from [Alan-bur](https://github.com/Alan-bur)'s [4K Wii Menu Texture Pack](https://github.com/Alan-bur/WM4K)
+
+## Disclaimer
+We do not permit our assets to be used with AI for training or anything else vibecoded.
